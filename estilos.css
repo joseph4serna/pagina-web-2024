@@ -5,7 +5,7 @@
     font-size: 30px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .principal{
@@ -14,7 +14,7 @@
 }
 body{
     background-image: url("fondo.jpg.jpg");
-background-repeat: no-repeat;
+
 
 }
 .titulo{
@@ -47,4 +47,46 @@ display: flex;
     float: right;
 
 
+}
+.POLI{
+    height: 400px;
+    width: 500px;
+    background-image: url("polinomios.png");
+    background-repeat: no-repeat;
+    float: right;
+}
+.resta{
+    height: 400px;
+    width: 500px;
+    background-image: url("resta.png");
+    background-repeat: no-repeat;
+    float: right;
+}
+.multi{
+    height: 300px;
+    width: 200px;
+    background-image: url("multipli.png.jpg");
+    background-repeat: no-repeat;
+    float: right;
+}
+.division{
+    height: 400px;
+    width: 500px;
+    background-image: url("division.png.jpg");
+    background-repeat: no-repeat;
+    float: right;
+    }
+.Pn{
+    height: 400px;
+    width: 500px;
+    background-image: url("pn.jpg");
+    background-repeat: no-repeat;
+    float: right
+}
+.fc{
+    height: 400px;
+    width: 900px;
+    background-image: url("fc.jpg");
+    background-repeat: no-repeat;
+    float: right
 }
