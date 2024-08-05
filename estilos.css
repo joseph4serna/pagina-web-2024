@@ -90,3 +90,15 @@ display: flex;
     background-repeat: no-repeat;
     float: right
 }
+.cb{ height: 400px;
+    width: 900px;
+    background-image: url("cb.jpg");
+    background-repeat: no-repeat;
+    float: right
+}
+.cb2{ height: 400px;
+    width: 900px;
+    background-image: url("cb2.jpg");
+    background-repeat: no-repeat;
+    float: right
+}
