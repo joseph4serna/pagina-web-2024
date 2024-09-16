@@ -132,3 +132,21 @@ display: flex;
     background-repeat: no-repeat;
     float: right
 }
+.futbol{ height: 740px;
+    width:  900px;
+    background-image: url("futbol.webp");
+    background-repeat: no-repeat;
+    float: right
+}
+.bas{ height: 671px;
+    width:  900px;
+    background-image: url("basquet.webp");
+    background-repeat: no-repeat;
+    float: right
+}
+.aje{ height: 600px;
+    width:  900px;
+    background-image: url("aje.png");
+    background-repeat: no-repeat;
+    float: right
+}
