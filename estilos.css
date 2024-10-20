@@ -150,3 +150,21 @@ display: flex;
     background-repeat: no-repeat;
     float: right
 }
+.producto{ height: 800px;
+    width: 1300px;
+    background-image: url("producto.jpg");
+    background-repeat: no-repeat;
+    float: right
+}
+.diferencia{ height: 800px;
+    width: 1300px;
+    background-image: url("diferencia.jpg");
+    background-repeat: no-repeat;
+    float: right
+}
+.mac2{ height: 800px;
+    width: 1300px;
+    background-image: url("mapac2.jpg");
+    background-repeat: no-repeat;
+    float: right
+}
