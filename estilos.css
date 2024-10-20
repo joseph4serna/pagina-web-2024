@@ -168,3 +168,27 @@ display: flex;
     background-repeat: no-repeat;
     float: right
 }
+.enlacesq{ height: 800px;
+    width: 1400px;
+    background-image: url("enlace.png");
+    background-repeat: no-repeat;
+    float: right
+}
+.covalente{ height: 800px;
+    width: 1400px;
+    background-image: url("enlace-covalente.jpg");
+    background-repeat: no-repeat;
+    float: right
+}
+.ionico{ height: 800px;
+    width: 1400px;
+    background-image: url("ie.jpg");
+    background-repeat: no-repeat;
+    float: right
+}
+.metal{ height: 800px;
+    width: 1400px;
+    background-image: url("metal.jpg");
+    background-repeat: no-repeat;
+    float: right
+}
