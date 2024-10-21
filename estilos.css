@@ -192,3 +192,45 @@ display: flex;
     background-repeat: no-repeat;
     float: right
 }
+.tec{ height: 800px;
+    width: 1200px;
+    background-image: url("tec.jpg");
+    background-repeat: no-repeat;
+    float: left
+}
+.mate{ height: 800px;
+    width: 1200px;
+    background-image: url("mate.jpeg");
+    background-repeat: no-repeat;
+    float: left
+}
+.quimi{ height: 800px;
+    width: 1200px;
+    background-image: url("soci.jpg");
+    background-repeat: no-repeat;
+    float: left
+}
+.biolo{ height: 800px;
+    width: 1200px;
+    background-image: url("biolo.jpeg");
+    background-repeat: no-repeat;
+    float: left
+}
+.socia{ height: 1400px;
+    width: 1800px;
+    background-image: url("quimica.jpg");
+    background-repeat: no-repeat;
+    float: left
+}
+.esperma{ height: 1400px;
+    width: 1800px;
+    background-image: url("WhatsApp\ Image\ 2024-10-20\ at\ 21.45.03.jpeg");
+    background-repeat: no-repeat;
+    float: left
+}
+.embarazo{ height: 1400px;
+    width: 1800px;
+    background-image: url("embarazo.jfif");
+    background-repeat: no-repeat;
+    float: left
+}
