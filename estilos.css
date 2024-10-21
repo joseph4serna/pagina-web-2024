@@ -234,3 +234,9 @@ display: flex;
     background-repeat: no-repeat;
     float: left
 }
+.sumee{ height: 1400px;
+    width: 1800px;
+    background-image: url("sumee.jpg");
+    background-repeat: no-repeat;
+    float: left
+}
